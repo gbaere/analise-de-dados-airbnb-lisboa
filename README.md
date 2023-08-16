@@ -1,6 +1,8 @@
 # analise-de-dados-airbnb-lisboa
 Data Exploration on Lisboa Airbnb
 
+Autor: Guilherme Bender 
+
 Ferramentas utilizadas no projeto: Python e Google Colab
 
 Resumo da proposta deste projeto:
@@ -11,7 +13,7 @@ O aplicativo conecta pessoas que ao viajar desejam se hospedar em imóveis locai
 
 Uma iniciativa do Airbnb foi a disponibilização dados do site, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
 
-Portanto, o objetivo da minha análise foi aprimorar meus estudos em Data Science no curso da sigmoid.ai e meu interesse em viagens, realizei algumas analises para identificar padrões sobre o aluguel de imóveis do Airbnb em Lisboa. 
+Portanto, o objetivo da minha análise foi aprimorar meus estudos em Data Science no curso Data Science na Prática 2.0 by sigmoidal.ai, além do meu grande interesse por viagens, realizei algumas analises para identificar padrões sobre o aluguel de imóveis do Airbnb em Lisboa. 
 
 Por fim, analisaremos, principalmente os locais com maior oferta, a média de preço e qual a média do mínimo de noites para aluguel na cidade, fornecendo também uma visão espacial através de mapas, outrossim, como não gosto de ficar no campo da teoria, mas aplicar o conhecimento em projetos úteis, desenvolvi uma aplicação python usando plotly e streamlit para demostrar como podemos trabalhar com essas informações.
 
