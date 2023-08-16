@@ -1,7 +1,7 @@
 analise-de-dados-airbnb-lisboa
 # Data Exploration on Lisboa Airbnb
 
-"#### **Autor: Guilherme Bender A. Baere ** | [guilhermebaere](https://www.linkedin.com/in/guilhermebaere/)\n",
+#### **Autor: Guilherme Bender A. Baere ** | https://www.linkedin.com/in/guilhermebaere/
 
 
 Ferramentas utilizadas no projeto: Python e Google Colab
