@@ -17,6 +17,6 @@ Por fim, analisaremos, principalmente os locais com maior oferta, a média de pr
 
 Demonstração do estudo de Data Science aplicada:
 
-https://colab.research.google.com/drive/1IjeC72vQbQ6VRiLAWsB-4h2qtQmqlrfj#scrollTo=p5YGSvZD6Ktv
+
 
 Demonstração da aplicação da informações para uso prático:
