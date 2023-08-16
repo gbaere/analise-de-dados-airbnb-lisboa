@@ -1,12 +1,9 @@
 # analise-de-dados-airbnb-lisboa
 Data Exploration on Lisboa Airbnb
 
-Ferramentas utilizadas no projeto:
-python
+Ferramentas utilizadas no projeto: Python e Google Colab
 
-Imagem demonstrativa do projeto juntamente como o nome do projeto;
-
-Texto com resumo da proposta do projeto;
+Resumo da proposta deste projeto:
 
 Atualmente, o aplicativo Airbnb é considerado como a maior empresa hoteleira da atualidade, seguida do Booking.com
 
