@@ -17,4 +17,7 @@ Por fim, analisaremos, principalmente os locais com maior oferta, a média de pr
 
 Demonstração do estudo de Data Science aplicada:
 
+![google_colab](https://github.com/gbaere/analise-de-dados-airbnb-lisboa/assets/397533/f3f737f3-6c3d-4216-9a0b-d639a788db4c)
+
+
 Demonstração da aplicação da informações para uso prático:
