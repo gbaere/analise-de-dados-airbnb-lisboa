@@ -3,3 +3,4 @@ analise-de-dados-airbnb-lisboa
 
 **Autor: Guilherme Bender A. Baere**
 
+https://github.com/gbaere/analise-de-dados-airbnb-lisboa/blob/main/analise_de_dados_airbnb_lisboa.ipynb
